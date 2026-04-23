@@ -55,6 +55,7 @@
 
 	-->
 	<build>
+		<finalName>maven-standalone-application</finalName>
 	  <plugins>
 	    <plugin>
 	      <!-- Build an executable JAR -->
